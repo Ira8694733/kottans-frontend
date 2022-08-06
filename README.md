@@ -24,4 +24,5 @@ Identify correct HTML5 page declaration(s)
 <!DOCTYPE html>
 <!doctype html>
 <!doctype html>
-Semantic HTML tags - May help the SEO ranking of the page
+Semantic HTML tags - May help the SEO ranking of the page; Help computers better understand the structure of the page; 
+Help humans better understand the structure of the page

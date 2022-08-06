@@ -24,3 +24,4 @@ Identify correct HTML5 page declaration(s)
 <!DOCTYPE html>
 <!doctype html>
 <!doctype html>
+Semantic HTML tags - May help the SEO ranking of the page

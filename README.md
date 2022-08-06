@@ -20,3 +20,7 @@ _Прохождение модулей на платформе learngitbranching
 
 W3C (World Wide Web Consortium)  
 WHATWG — свободная неофициальная ассоциация производителей веб-браузеров и сторон, заинтересованных в разработке новых технологий, цель которой – предоставить авторам возможность писать и размещать программы через интернет.
+Identify correct HTML5 page declaration(s)
+<!DOCTYPE html>
+<!doctype html>
+<!doctype html>

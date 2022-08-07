@@ -26,3 +26,17 @@ Identify correct HTML5 page declaration(s)
 <!doctype html>
 Semantic HTML tags - May help the SEO ranking of the page; Help computers better understand the structure of the page; 
 Help humans better understand the structure of the page
+
+Вопрос 1
+Twitter Bootstrap is one of the most popular CSS frameworks today
+
+This Bootstrap Grid class: col-md-6 means that the element to which it is applied should stretch to be 50% of the browser screen and collapse/stack below a certain browser screen width (hinted to by the 'md' qualifier).
+
+
+The Bootstrap Grid requires us to only use 'div' elements for each grid cell.
+
+False
+
+
+Bootstrap Grid has to be defined inside of some parent element which has its class set to either 'container' or 'container-fluid'.
+

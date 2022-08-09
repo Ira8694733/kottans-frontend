@@ -21,25 +21,18 @@ _Прохождение модулей на платформе learngitbranching
 ## Intro to HTML and CSS
 1. Много интерестной информации узнала из видео-уроков.
 1.1. Так, ранее читала о W3C (World Wide Web Consortium), но не слышала о WHATWG — свободная неофициальная ассоциация производителей веб-браузеров и сторон, заинтересованных в разработке новых технологий, цель которой – предоставить авторам возможность писать и размещать программы через интернет.
-1.2. Черпнула для себя базовые основы относительно объявления страницы HTML5:
-<!DOCTYPE html>
-<!doctype html>
-<!doctype html>
+1.2.Черпнула для себя базовые основы относительно объявления страницы HTML5:
+- <!DOCTYPE html>
+- <!doctype html>
+- <!doctype html>
 1.3. Сделала для себя заметку, что Semantic HTML tag — могут помочь:
 - SEO-рейтингу страницы;
 - компьютерам лучше понять структуру страницы;
 - лучше понять структуру страницы.
+1.4 Для markup самой популярной версткой есть Bootstrap. 
+1.5. Изучила классы Bootstrap. Считаю, что эти знания необходимы и понадобятся нам, если, например, захочем изменить предложенный нам шаблон. Намного упрощает верстку флексами и гридами.
+1.6. Отметила для себя, что Bootstrap Grid требует, чтобы мы использовали только элементы div для каждой ячейки сетки. Bootstrap Grid должен быть определен внутри родительского элемента, для которого установлен класс либо «контейнер», либо «контейнер-флюид».
 
-Вопрос 1
-Twitter Bootstrap is one of the most popular CSS frameworks today
+2.
 
-This Bootstrap Grid class: col-md-6 means that the element to which it is applied should stretch to be 50% of the browser screen and collapse/stack below a certain browser screen width (hinted to by the 'md' qualifier).
-
-
-The Bootstrap Grid requires us to only use 'div' elements for each grid cell.
-
-False
-
-
-Bootstrap Grid has to be defined inside of some parent element which has its class set to either 'container' or 'container-fluid'.
 
